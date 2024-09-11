@@ -1,4 +1,4 @@
-name = input("What's your name? ")
+name = input("What is your name? ")
 greeting = "Nice to meet you"
 ex = "!"
 lee = "Lee"
